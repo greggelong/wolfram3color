@@ -1,0 +1,13 @@
+body{
+    padding: 0%;
+    margin: 0;
+    color: #66FF00;
+    background-color: rgb(43, 112, 216);
+    font-size: large;
+    text-align: center;
+    font-family: monospace; 
+  }
+
+  pre{
+    font-family: monospace; 
+  }
