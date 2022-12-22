@@ -22,4 +22,4 @@ coded in p5js
 
  
 
-https://greggelong.github.io/wolf3color
+https://greggelong.github.io/wolfram3color
