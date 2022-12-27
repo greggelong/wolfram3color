@@ -55,7 +55,7 @@ function setBinRule(){
 }
 
 function rndBinRule(){
-  let randDec = floor(random(993,1140))
+  let randDec = floor(random(0,2187))
   print("Decimal: ", randDec)
   myinput.value(randDec)
   ruleset= binConvert(randDec,7)
